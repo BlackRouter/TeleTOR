@@ -1,6 +1,6 @@
 # TeleTOR
 
-** Download: https://github.com/BlackRouter/TeleTOR/releases
+* Download: https://github.com/BlackRouter/TeleTOR/releases
 
 Telegram base on tor network.
 
